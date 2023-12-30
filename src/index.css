@@ -42,7 +42,8 @@ header a {
 }
 
 header a:hover {
-  color: #161616;
+  /* color: #161616; */
+  color: #186161;
   text-decoration: underline;
 }
 
