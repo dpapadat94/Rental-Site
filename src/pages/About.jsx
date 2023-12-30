@@ -13,7 +13,7 @@ function About() {
           travel plans can go off without a hitch. (Hitch costs extra 😉)
         </p>
         <p>
-          Our team is full of vanlife enthusiasts who know firsthand the magic
+          Our team is full of vanlife enthusiasts who know first hand the magic
           of touring the world on 4 wheels.
         </p>
       </div>
